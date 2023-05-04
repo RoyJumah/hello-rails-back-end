@@ -31,7 +31,7 @@
 
 # 📖 Rails with React <a name="about-project"></a>
 
-**Hello Rails Backend** is the backend of the Hello React app
+**Hello Rails Backend** is the backend of the [Hello React FrontEnd Application](https://github.com/RoyJumah/hello-react-front-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
