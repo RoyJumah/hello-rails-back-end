@@ -11,6 +11,8 @@ gem 'sprockets-rails'
 
 gem 'pg'
 
+gem 'rack-cors'
+
 gem 'rubocop', '>= 1.0', '< 2.0'
 
 # Use the Puma web server [https://github.com/puma/puma]
